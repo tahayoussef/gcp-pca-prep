@@ -148,3 +148,90 @@
 - https://docs.cloud.google.com/architecture/ai-ml/storage-for-ai-ml
 - https://docs.cloud.google.com/architecture/optimize-ai-ml-workloads-cloud-storage-fuse
 - https://docs.cloud.google.com/architecture/optimize-ai-ml-workloads-managed-lustre
+
+# Application Development
+
+## Development Approaches and Styles
+- https://docs.cloud.google.com/architecture/scalable-and-resilient-apps
+
+## Development Platform Management
+### Deploy an entreprise Developer Platform 
+- https://docs.cloud.google.com/architecture/blueprints/enterprise-application-blueprint/architecture
+- https://docs.cloud.google.com/architecture/blueprints/enterprise-application-blueprint/developer-platform-controls
+- https://docs.cloud.google.com/architecture/blueprints/enterprise-application-blueprint/service-architecture
+- https://docs.cloud.google.com/architecture/blueprints/enterprise-application-blueprint/logging-monitoring
+- https://docs.cloud.google.com/architecture/blueprints/enterprise-application-blueprint/ops-developer-platform-applications
+- https://docs.cloud.google.com/architecture/blueprints/enterprise-application-blueprint/manage-costs-attributions
+- https://docs.cloud.google.com/architecture/blueprints/enterprise-application-blueprint/deployment-methodology
+- https://docs.cloud.google.com/architecture/blueprints/enterprise-application-blueprint/cymbal-bank
+- https://docs.cloud.google.com/architecture/blueprints/enterprise-application-blueprint/mapping-beyondprod-security-principles
+- https://docs.cloud.google.com/architecture/blueprints/enterprise-application-blueprint/deploy-blueprint
+(Back to Development Platform Management)
+- https://docs.cloud.google.com/architecture/best-practices-for-running-cost-effective-kubernetes-applications-on-gke
+### Expose service mesh applications through GKE gateway
+- https://docs.cloud.google.com/architecture/exposing-service-mesh-apps-through-gke-ingress
+- https://docs.cloud.google.com/architecture/exposing-service-mesh-apps-through-gke-ingress/deployment
+### Build Gloabally Distributed architectures using GKE Gatewawy and Cloud Service Mesh
+- https://docs.cloud.google.com/architecture/build-apps-using-gateway-and-cloud-service
+- https://docs.cloud.google.com/architecture/build-apps-using-gateway-and-cloud-service/deployment
+(Back to Development Platform Management)
+- https://docs.cloud.google.com/architecture/patterns-practices-identity-access-governance-google-cloud
+- https://docs.cloud.google.com/architecture/resource-management-with-servicenow
+- https://docs.cloud.google.com/architecture/select-managed-container-runtime-environment
+
+## devops and development lifecycle
+- https://docs.cloud.google.com/architecture/architecture-decision-records
+### Develop and deliver apps with a deployment pipeline 
+- https://docs.cloud.google.com/architecture/app-development-and-delivery-with-cloud-code-gcb-cd-and-gke
+- https://docs.cloud.google.com/architecture/app-development-and-delivery-with-cloud-code-gcb-cd-and-gke/deployment
+(Back to devops and development lifecycle)
+- https://docs.cloud.google.com/architecture/devops
+
+## Application Architectures
+### Apache Guacamole on GKE and Cloud SQL
+- https://docs.cloud.google.com/architecture/deploy-guacamole-gke
+- https://docs.cloud.google.com/architecture/deploy-guacamole-gke/deployment
+
+### Chrome Remote Desktop on Compute Engine
+- https://docs.cloud.google.com/architecture/chrome-desktop-remote-on-compute-engine
+- https://docs.cloud.google.com/architecture/chrome-desktop-remote-windows-compute-engine
+
+### Connected Device architecture on google cloud 
+- https://docs.cloud.google.com/architecture/connected-devices
+- https://docs.cloud.google.com/architecture/connected-devices/mqtt-broker-architecture
+- https://docs.cloud.google.com/architecture/connected-devices/iot-platform-product-architecture
+- https://docs.cloud.google.com/architecture/connected-devices/device-pubsub-architecture
+- https://docs.cloud.google.com/architecture/connected-devices/bps-running-iot-backend-securely
+- https://docs.cloud.google.com/architecture/connected-devices/best-practices-provisioning-configuring-bare-metal
+(Back to Application Architectures)
+- https://docs.cloud.google.com/architecture/application-development/ecommerce-serverless
+### Manage and scale networking for Windows applications that run on managed Kubernetes
+- https://docs.cloud.google.com/architecture/manage-and-scale-windows-networking
+- https://docs.cloud.google.com/architecture/manage-and-scale-windows-networking/deployment
+(Back to Application Architectures)
+- https://docs.cloud.google.com/architecture/application-development/dynamic-app-python
+- https://docs.cloud.google.com/architecture/application-development/cloud-client-api
+- https://docs.cloud.google.com/architecture/application-development/three-tier-web-app
+- https://docs.cloud.google.com/architecture/web-serving-overview
+
+# Big Data and Analytics
+## End to End architectures
+- https://docs.cloud.google.com/architecture/big-data-analytics/analytics-lakehouse
+- https://docs.cloud.google.com/architecture/blueprints/confidential-data-warehouse-blueprint
+### Data Mesh on Google Cloud 
+- https://docs.cloud.google.com/architecture/data-mesh
+- https://docs.cloud.google.com/architecture/design-self-service-data-platform-data-mesh
+- https://docs.cloud.google.com/architecture/build-data-products-data-mesh
+- https://docs.cloud.google.com/architecture/discover-consume-data-products-data-mesh
+(Back to End to End architectures)
+- https://docs.cloud.google.com/architecture/blueprints/deploy_enterprise_data_mesh
+- https://docs.cloud.google.com/architecture/big-data-analytics/data-warehouse
+###  BigQuery Backup automation
+- https://docs.cloud.google.com/architecture/scalable-bigquery-backup-automation
+- https://docs.cloud.google.com/architecture/scalable-bigquery-backup-automation/deployment
+
+## Load and process data
+- https://docs.cloud.google.com/architecture/partners/continuous-data-replication-bigquery-striim
+
+## Analyze Data 
+- https://docs.cloud.google.com/architecture/data-science-with-r-on-gcp-eda
