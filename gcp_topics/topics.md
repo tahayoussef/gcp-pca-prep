@@ -6,11 +6,13 @@
 - Project Name, ID, and Number
 - Governance and Compliance with Org - Policies
 - Org Level Roles
+
 # Cloud Billing
 - Cloud Billing - Intro
 - Cloud Billing - Exports
 - Cloud Billing - Resource Labels
 - Cloud Billing - Billing Account Access
+
 # Identity and Access Management
 - Cloud IAM - Intro
 - Cloud IAM - Understanding Service Accounts
@@ -23,6 +25,7 @@
 - Cloud IAM - IAM Conditions
 - Cloud IAM - Federated Authentication
 - Cloud IAM - gcloud commands
+
 # Cloud Observability Suite
 - Cloud Logging - Intro
 - Cloud Logging - Exports and Sinks
